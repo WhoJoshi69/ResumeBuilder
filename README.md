@@ -1,4 +1,4 @@
-# Resume Builder with Job Scraper
+# Naukri.com scrapper
 
 A powerful tool that scrapes job listings from Naukri.com and helps in building targeted resumes. This project uses asynchronous programming to efficiently collect job data and company information.
 
