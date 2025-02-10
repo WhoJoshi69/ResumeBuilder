@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="roop-unleashed" />
+    <option name="sdkName" value="ppics" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="roop-unleashed" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="ppics" project-jdk-type="Python SDK" />
 </project>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b0f4aa8-537b-4bb2-b155-f85b0c1b7f74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ResumeBuilder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ResumeBuilder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/awesome-cv.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/coverletter.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/committees.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/education.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/experience.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/extracurricular.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/honors.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/presentation.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/skills.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/cv/writing.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/FontAwesome.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/fonts/Roboto-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/education.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/experience.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/extracurricular.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/honors.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/presentation.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/projects.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/skills.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/summary.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/darshit_joshi_resume/resume/writing.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2srjV6MlEN7Q9x9AO3MCDJeuEAR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.fetch_jobs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="fetch_jobs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ResumeBuilder" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_jobs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fetch_jobs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0f4aa8-537b-4bb2-b155-f85b0c1b7f74" name="Changes" comment="" />
+      <created>1739220608148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739220608148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fetch_jobs.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
